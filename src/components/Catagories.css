@@ -1,0 +1,22 @@
+.g{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+}
+.categories-container{
+    display: flex;
+    justify-content: center; 
+    text-align: center; 
+    gap: 20px; 
+}
+.categorie{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    justify-content: space-between;
+    
+}
+.categorie img{
+   width: 100px;
+   align-self: center;  
+}
